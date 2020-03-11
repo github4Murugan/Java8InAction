@@ -4,4 +4,4 @@
 .setting/
 .classpath
 .project
-.class
+bin/
